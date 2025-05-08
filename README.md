@@ -201,7 +201,7 @@ exports.handler = async (event) => {
 
 ![SQS Queue with Visible Message](./SQS_Queue.png)
 
-*Description:* This screenshot displays the `OrderQueue` with at least one visible message (under "Approximate number of messages" or "Messages Available").
+*Description:* This screenshot displays the `OrderQueue` with at least one visible message (under "Number Of Messages Received" or "Number of Messages Sent").
 
 ---
 
